@@ -6,7 +6,7 @@ Group: K3321
 Author: Abdulov Ilya Alexandrovich
 Lab: Lab2
 Date of create: 07.04.25
-Date of finished: 
+Date of finished: 09.04.25
 
 # Лабораторная работа №2 "Развертывание дополнительного CHR, первый сценарий Ansible"
 
