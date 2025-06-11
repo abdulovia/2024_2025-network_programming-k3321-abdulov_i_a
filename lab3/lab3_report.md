@@ -6,7 +6,7 @@ Group: K3321
 Author: Abdulov Ilya Alexandrovich
 Lab: Lab3
 Date of create: 09.04.25
-Date of finished: 
+Date of finished: 18.04.25
 
 # Лабораторная работа №3 "Развертывание Netbox, сеть связи как источник правды в системе технического учета Netbox"
 
